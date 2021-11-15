@@ -1,6 +1,6 @@
 # vue2demo
 
-> A Vue.js project
+> A Vue.js project see http://85.214.96.202/vue2demo
 
 ## Build Setup
 
